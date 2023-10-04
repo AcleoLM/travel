@@ -1,0 +1,49 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #bbba83;
+    text-align: center;
+}
+
+
+header {
+    background-image: -moz-linear-gradient();
+    background-color: #333;
+    color: #87a226;
+    padding: 20px 0;
+}
+
+header h1 {
+    font-size: 40px;
+}
+
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 10%;
+
+
+}
+#banner img{
+    width: 5%;
+    height: auto;
+}
+#destinations img{
+
+    width: 60%;
+    height: 20%;
+}
+h1{
+    font-size: 400%;
+    background-color: aqua;
+}
+#logo{
+    width: 5px;
+    height: auto;
+    align-items: left;
+}
